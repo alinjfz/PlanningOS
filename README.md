@@ -1,7 +1,4 @@
-![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
-![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
-
-# PlanningOS — UK Planning Permission Agent
+# PlanningOS - UK Planning Permission Agent
 
 <p align="center">
   <a href="https://youtu.be/E52k-gfZoT4">
@@ -11,7 +8,7 @@
 
 <p align="center"><em>Click to watch PlanningOS assess a real planning application.</em></p>
 
-Built for the **UK AI Agent Hackathon EP5 × Conduct**.
+**🏆 Fetch.ai Prize winner - UK AI Agent Hackathon EP5 × Conduct - Imperial College London**.
 
 UK householder planning applications routinely take **8–16 weeks** and cost applicants **£1,500–£6,000** in consultant fees, mostly spent manually cross-referencing policy, heritage, flood, highways, and neighbour-amenity rules that already exist in public datasets. PlanningOS runs five specialist AI agents in parallel over **real UK government data** and returns an explainable, evidence-linked recommendation in seconds — with a human always kept in the loop.
 
